@@ -3,7 +3,9 @@
 ### Education
 
 **University of Cincinnati**
+
 Bachelor in Science, Business Analytics
+
 Certification, Information Systems
 
 
@@ -14,7 +16,8 @@ Certification, Information Systems
 ### Projects
 
 **Data Management**
-**Data Nining**
+
+**Data Mining**
 
 
 ### Career Milestones
